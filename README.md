@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on creating a GUI to-do-list (personal project as a newbie)
 - 🌱 I’m currently learning JAVA, PYTHON
-- 👯 Am I looking for collaborations? (depends, contact me!)
+- 👯 Am I looking for collaborations? (yea! but don't expect much from a newbie, hoping to learn from you!)
 - 🤔 I’m looking for help with learning JAVA, PYTHON currently
 - ⚡ Fun fact: I love computers
 
