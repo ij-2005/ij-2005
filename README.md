@@ -1,4 +1,3 @@
-
-- Languages: Java, Python, HTML - CSS - JavaScript
-
+- Front End : HTML, CSS, JavaScript - React
+- Back End : Java, Python
 
