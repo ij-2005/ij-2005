@@ -15,7 +15,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🎨 Design & UX
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-00BFA6?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🚢 Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
