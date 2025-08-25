@@ -27,3 +27,6 @@ I love coding!
 
 ### 🚢 Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ij-2005&layout=compact&theme=dark)
