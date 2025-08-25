@@ -1,6 +1,6 @@
 ## About Me 🤓
 
-**Hello!, I'm Ivan.** A 2nd-year student from **De La Salle University - Dasmariñas.**
+**Hello!, I'm Ivan.** A 2nd-year computer science student from **De La Salle University - Dasmariñas.**
 
 I love coding!
 
